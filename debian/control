@@ -1,0 +1,14 @@
+Source: pbmenu-apps
+Section: misc
+Priority: extra
+Maintainer: "Super" Nathan Weber <supernathansunshine@gmail.com>
+Build-Depends-Indep: debhelper (>= 5.0.0)
+Standards-Version: 3.9.0
+Homepage: http://pibang.org/
+
+Package: pbmenu-apps
+Depends: tint2, conky, openbox
+Architecture: all
+Description: Simple program from logging out of Openbox
+
+

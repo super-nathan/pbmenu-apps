@@ -1,8 +1,8 @@
 Package: pbmenu-apps
-Version: 0.2.0
+Version: 0.2.2
 Architecture: all
 Maintainer: "Super" Nathan Weber <supernathansunshine@gmail.com>
-Installed-Size: 30
+Installed-Size: 31
 Depends: tint2, conky, openbox
 Section: misc
 Priority: extra

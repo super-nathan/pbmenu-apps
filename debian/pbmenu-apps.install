@@ -1,3 +1,4 @@
 ./conkywonky /usr/bin
 ./tint2restart /usr/bin
-
+./upgrade	/usr/bin
+./slow-htop	/usr/bin

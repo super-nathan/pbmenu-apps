@@ -1,3 +1,15 @@
+pbmenu-apps (0.2.2) unstable; urgency=low
+
+  * added a script to start htop with a delay for i3
+
+ -- "Super" Nathan Weber <supernathansunshine@gmail.com>  Thu, 28 Feb 2013 09:52:22 +0900
+
+pbmenu-apps (0.2.1) unstable; urgency=low
+
+  * added upgrade
+
+ -- "Super" Nathan Weber <supernathansunshine@gmail.com>  Wed, 20 Feb 2013 08:57:59 +0900
+
 pbmenu-apps (0.2.0) unstable; urgency=low
 
   * Initial release. (Closes: #XXXXXX)

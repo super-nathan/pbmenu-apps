@@ -1,0 +1,8 @@
+#!/bin/bash
+set -e
+clear
+sudo aptitude update
+sleep 3s
+clear
+sudo aptitude full-upgrade
+exit 0

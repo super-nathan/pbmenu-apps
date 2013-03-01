@@ -1,5 +1,4 @@
 #!/bin/bash
-clear
 sleep 4s
-htop
+xterm htop &
 exit 0

@@ -1,3 +1,9 @@
+pbmenu-apps (0.2.3) unstable; urgency=low
+
+  * added post install scripts for i3
+
+ -- "Super" Nathan Weber <supernathansunshine@gmail.com>  Fri, 01 Mar 2013 08:44:16 +0900
+
 pbmenu-apps (0.2.2) unstable; urgency=low
 
   * added a script to start htop with a delay for i3

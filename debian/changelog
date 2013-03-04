@@ -1,3 +1,9 @@
+pbmenu-apps (0.2.4) unstable; urgency=low
+
+  * remove depends
+
+ -- "Super" Nathan Weber <supernathansunshine@gmail.com>  Tue, 05 Mar 2013 08:54:11 +0900
+
 pbmenu-apps (0.2.3) unstable; urgency=low
 
   * added post install scripts for i3

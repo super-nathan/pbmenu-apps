@@ -1,3 +1,9 @@
+pbmenu-apps (0.2.5) unstable; urgency=low
+
+  * helps if i install stuff
+
+ -- "Super" Nathan Weber <supernathansunshine@gmail.com>  Tue, 05 Mar 2013 09:16:01 +0900
+
 pbmenu-apps (0.2.4) unstable; urgency=low
 
   * remove depends

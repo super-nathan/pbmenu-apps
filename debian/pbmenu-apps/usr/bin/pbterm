@@ -1,14 +1,8 @@
 #!/bin/bash
 if [ -e "/home/$USER/.config/crunchbang/cb-welcome" ]; then
-        terminator &
+        lxterminal &
 else
-           if ! echo `groups` | grep "sudo" >/dev/null; then
-				# Create flag
-			if [ ! -d "/home/$USER/.config/crunchbang" ]; then
                 mkdir /home/$USER/.config/crunchbang
-           fi
-           if [ ! -f "/home/$USER/.config/crunchbang/cb-welcome" ]; then
                  touch /home/$USER/.config/crunchbang/cb-welcome
-           fi
-			terminator --title="#! Post-installation Script" --command="cb-welcome"
+			lxterminal --title="#! Post-installation Script" --command="cb-welcome"
 fi

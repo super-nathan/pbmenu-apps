@@ -3,3 +3,4 @@
 ./upgrade	/usr/bin
 ./slow-htop	/usr/bin
 ./pbterm /usr/bin
+./cb-compositor /usr/bin

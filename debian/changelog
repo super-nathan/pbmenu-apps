@@ -1,3 +1,15 @@
+pbmenu-apps (0.2.7) unstable; urgency=low
+
+  * added compositing
+
+ -- "Super" Nathan Weber <supernathansunshine@gmail.com>  Mon, 06 May 2013 11:28:38 +0900
+
+pbmenu-apps (0.2.6) unstable; urgency=low
+
+  * added a "fi"
+
+ -- "Super" Nathan Weber <supernathansunshine@gmail.com>  Thu, 07 Mar 2013 13:01:12 +0900
+
 pbmenu-apps (0.2.5) unstable; urgency=low
 
   * helps if i install stuff

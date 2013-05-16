@@ -1,8 +1,8 @@
 Package: pbmenu-apps
-Version: 0.2.5
+Version: 0.2.7
 Architecture: all
 Maintainer: "Super" Nathan Weber <supernathansunshine@gmail.com>
-Installed-Size: 31
+Installed-Size: 6
 Section: misc
 Priority: extra
 Homepage: http://pibang.org/
